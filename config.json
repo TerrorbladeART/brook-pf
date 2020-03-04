@@ -1,0 +1,10 @@
+{
+  "poseidon": {
+    "panel": "v2board",    
+    "nodeId": yournodeid,               
+    "checkRate": 60,            
+    "webapi": "yourwebapi",
+    "token": "yourtoken",   
+    "localPort": 10084 
+  }
+}
